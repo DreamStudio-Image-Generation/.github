@@ -25,8 +25,7 @@ Searches such as DreamStudio image generation, DreamStudio prompt crafting, and 
 | **Remembers context** | Prompts, canvases, and presets help you return to the next task fast. |
 | **Fast feedback** | Open DreamStudio, pick a prompt, and render without switching tools. |
 
-![DreamStudio](<img width="596" height="335" alt="image" src="https://github.com/user-attachments/assets/06a32e14-0d74-4135-9473-d901a3386099" />
-)
+![DreamStudio](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHAN0Fz9bBIWer3mlVaeZAsrm-25FqABq8OoRZQ0aLtnYyZjB2F55J2JrR&s=10)
 
 ## Key Features of DreamStudio
 
